@@ -5,5 +5,6 @@ Could the mind palace technique be used to read assembly code more accurately an
 
 rax, rbx, rcx, rdx, rsi, rdi
 4ish stack locations
+Some heap data
 
-
+Visualize colors for taint
